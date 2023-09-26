@@ -26,10 +26,10 @@ WhoAmI().ask()
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I'm currently fueling my expertise in software engineering.
 - 👯 I’m enthusiastic about meaningful collaborations.
-- ⚡ Fun fact(s): Love watching anime, movies & TV series.
+- ⚡ Fun fact(s): I Love watching anime, movies & TV series.
     - 🎬 Genre - Well my fav are sci-fi, fiction & thrillers, but I explore others as well.
-    - 🗣️ Language - As long as subtitles are there, I'm willing to watch a good story.
-    - 📔 Manga - Yes, occasionally. Progressing with Solo Leveling, Dice & Beginning is the end.
+    - 🗣️ Language - Doesn't matter if it's a good show (subtitles helps 😝).
+    - 📔 Manga - Yes, occasionally. Enjoying Solo Leveling, Dice & Beginning is the end.
 <!-- - 📫 More about me: -->
 
 <br>
@@ -46,7 +46,8 @@ WhoAmI().ask()
         srcset="https://github-readme-stats.vercel.app/api?username=itsadarshms&show_icons=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://github-readme-stats.vercel.app/api?username=itsadarshms&show_icons=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=itsadarshms&show_icons=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
     </picture>
-<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsadarshms&layout=compact" /> -->
+    &nbsp; &nbsp;
+    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsadarshms&layout=compact" />
 </section>
