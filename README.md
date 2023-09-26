@@ -1,4 +1,4 @@
-<img src="https://github.com/itsadarshms/itsadarshms/assets/20404042/a98ffc9b-e352-4abe-8d14-55810274be0c" alt="splash" height="480" width="auto"></img>
+<img src="https://github.com/itsadarshms/itsadarshms/assets/20404042/0d112ed9-b5a6-47b5-9a94-bef9e312f171" alt="splash" height="480" width="auto"></img>
 
 ### Hi there 👋
 
