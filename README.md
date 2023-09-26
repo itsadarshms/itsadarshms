@@ -1,5 +1,4 @@
-![image](https://github.com/itsadarshms/itsadarshms/assets/20404042/a98ffc9b-e352-4abe-8d14-55810274be0c)
-
+<img src="https://github.com/itsadarshms/itsadarshms/assets/20404042/a98ffc9b-e352-4abe-8d14-55810274be0c" alt="splash" height="480" width="auto"></img>
 
 ### Hi there 👋
 
