@@ -1,6 +1,7 @@
 <img src="https://raw.githubusercontent.com/itsadarshms/itsadarshms/main/assets/splash.png" alt="splash" height="480" width="auto"></img>
 
-### Hey there 👋
+### Hey there 👋 
+![visitor badge](https://vbr.wocr.tk/badge?page_id=itsadarshms.visitor-badge&lcolor=fff&color=000&style=for-the-badge&logo=Github&logoColor=181717&hit=true)
 
 ```python
 class WhoAmI:
@@ -18,8 +19,9 @@ class WhoAmI:
 
 WhoAmI().ask()
 ```
-
 `>>> Thanks for dropping by! I'm Adarsh M S 🙃, a passionate engineer who thrives on using programming languages to converse with machines.`
+
+<br>
 
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I'm currently fueling my expertise in software engineering.
@@ -29,3 +31,22 @@ WhoAmI().ask()
     - 🗣️ Language - As long as subtitles are there, I'm willing to watch a good story.
     - 📔 Manga - Yes, occasionally. Progressing with Solo Leveling, Dice & Beginning is the end.
 <!-- - 📫 More about me: -->
+
+<br>
+
+#### Enter some cool stuff 😎 (WIP: Will be more cool soon 😁)
+
+<section>
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=itsadarshms&show_icons=true&theme=github_dark_dimmed&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=itsadarshms&show_icons=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api?username=itsadarshms&show_icons=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+    </picture>
+<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsadarshms&layout=compact" /> -->
+</section>
