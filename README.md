@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/itsadarshms/itsadarshms/main/assets/splash.png" alt="splash" height="480" width="auto"></img>
+<img src="https://raw.githubusercontent.com/itsadarshms/itsadarshms/main/assets/splash.png" alt="splash" height="auto" width="auto"></img>
 
 ### Hey there 👋 
 ![visitor badge](https://vbr.wocr.tk/badge?page_id=itsadarshms.visitor-badge&lcolor=fff&color=000&style=for-the-badge&logo=Github&logoColor=181717&hit=true)
