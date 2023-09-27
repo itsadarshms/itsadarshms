@@ -21,7 +21,6 @@ WhoAmI().ask()
 ```
 `>>> Thanks for dropping by! I'm Adarsh M S 🙃, a passionate engineer who thrives on using programming languages to converse with machines.`
 
-<br>
 
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I'm currently fueling my expertise in software engineering.
@@ -32,7 +31,6 @@ WhoAmI().ask()
     - 📔 Manga - Yes, occasionally. Enjoying Solo Leveling, Dice & Beginning is the end.
 <!-- - 📫 More about me: -->
 
-<br>
 
 #### Enter some cool stuff 😎 (WIP: Will be more cool soon 😁)
 
