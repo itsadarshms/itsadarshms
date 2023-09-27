@@ -27,7 +27,7 @@ WhoAmI().ask()
 - 👯 I’m enthusiastic about meaningful collaborations.
 - ⚡ Fun fact(s): I Love watching anime, movies & TV series.
     - 🎬 Genre - Well my fav are sci-fi, fiction & thrillers, but I explore others as well.
-    - 🗣️ Language - Doesn't matter if it's a good show (subtitles helps 😝).
+    - 🗣️ Language - Doesn't matter if it's a good show (subtitle helps 😝).
     - 📔 Manga - Yes, occasionally. Enjoying Solo Leveling, Dice & Beginning is the end.
 <!-- - 📫 More about me: -->
 
