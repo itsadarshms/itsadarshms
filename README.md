@@ -31,7 +31,7 @@ WhoAmI().ask()
     - 📔 Manga - Yes, occasionally. Enjoying Solo Leveling, Dice & Beginning is the end.
 <!-- - 📫 More about me: -->
 
-
+<!--
 #### Enter some cool stuff 😎 (WIP: Will be more cool soon 😁)
 
 <section>
@@ -59,3 +59,4 @@ WhoAmI().ask()
       <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsadarshms&layout=compact" />
     </picture>    
 </section>
+-->
