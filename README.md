@@ -43,7 +43,7 @@ WhoAmI().ask()
         srcset="https://github-readme-stats.vercel.app/api?username=itsadarshms&show_icons=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img width="60%" align="center" src="https://github-readme-stats.vercel.app/api?username=itsadarshms&show_icons=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+      <img width="55%" align="center" src="https://github-readme-stats.vercel.app/api?username=itsadarshms&show_icons=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
     </picture>
     &nbsp; &nbsp;
     <picture>
