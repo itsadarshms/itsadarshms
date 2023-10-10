@@ -45,7 +45,7 @@ WhoAmI().ask()
       />
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=itsadarshms&show_icons=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
     </picture>
-    &nbsp; &nbsp;
+<!--     &nbsp; &nbsp; -->
     <picture>
       <source
         srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=itsadarshms&theme=dark&layout=compact&border_color=ababab"
